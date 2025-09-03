@@ -1,1 +1,1 @@
-# SushiGo2
+# SushiGo
